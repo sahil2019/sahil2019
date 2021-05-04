@@ -4,7 +4,6 @@
 
 ### An aspiring Full Stack Developer,who likes to adapt to new technologies that comes up his way.I would love to work  in a competitive environment where we talk about new innovations      every now and then. 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on MERN 
 - 👯 I’m looking to collaborate on exciting projects with intellectual people.
