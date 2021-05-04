@@ -2,7 +2,7 @@
 
  <img align="right" alt="GIF" src="https://www.bacancytechnology.com/blog/wp-content/uploads/2019/07/developer-dribbble.gif" width="400" height="280" style=" padding:2%" />
 
-### I am an aspiring Full Stack Developer,who likes to adapt to new technologies that comes up in my way.I would love to work  in a competitive environment where we talk about new innovation      every now and then. 
+### An aspiring Full Stack Developer,who likes to adapt to new technologies that comes up his way.I would love to work  in a competitive environment where we talk about new innovations      every now and then. 
 
 Here are some ideas to get you started:
 
